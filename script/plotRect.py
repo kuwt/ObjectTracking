@@ -4,9 +4,11 @@ import cv2
 ###############################
 #  Input
 ###############################
-imagesTxTPath = r"E:\SourceCode\ObjectTracking\asms\build\Release\images.txt"
-RectTxTPath = r"E:\SourceCode\ObjectTracking\asms\build\Release\output.txt"
+#imagesTxTPath = r"E:\SourceCode\ObjectTracking\asms\build\Release\images.txt"
+#RectTxTPath = r"E:\SourceCode\ObjectTracking\asms\build\Release\output.txt"
 
+imagesTxTPath = r"E:\SourceCode\ObjectTracking\kcf\build\Release\images.txt"
+RectTxTPath = r"E:\SourceCode\ObjectTracking\kcf\build\Release\\output.txt"
 ###############################
 #  Util
 ###############################

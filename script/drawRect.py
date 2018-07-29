@@ -5,7 +5,7 @@ import argparse
 ###############################
 #  Input
 ###############################
-imagePath = r"E:\SourceCode\ObjectTracking\dataset\testFormat\Girl\img\0001.jpg"
+imagePath = r"E:\SourceCode\ObjectTracking\dataset\testFormat\basketball_dribble_6\img\scene01711.png"
 
 ###############################
 #  main
